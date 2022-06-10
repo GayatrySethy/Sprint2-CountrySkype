@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login_detail>
+<url>https://demo.opencart.com/index.php?route=account/login</url>
+<useremail>email</useremail>
+<password>password</password>
+<loginButton>//input[@type='submit']</loginButton>
+</login_detail>
