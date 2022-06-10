@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.667">
+    <testcase classname="Log in to Skype" name="Successful Login" time="0.014">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given User navigates to url.................................................undefined
+When User enters valid credentials..........................................skipped
+Then user should click on setting and add photo and upload..................skipped
+And user should come back to accounts and pictures and clicks on edit for birthday.skipped
+Then user should click on contacts send invites and add contact.............skipped
+Then user should click on setting and customize appearance and audio and video.skipped
+Then user should customize calling and messaging and notification...........skipped
+]]></failure>
+    </testcase>
+</testsuite>
