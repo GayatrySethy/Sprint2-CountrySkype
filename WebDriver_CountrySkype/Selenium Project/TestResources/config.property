@@ -1,5 +1,0 @@
-ChromeDriver=C:\\Users\\CMANWAR\\Desktop\\Selenium\\chrome driver\\chromedriver.exe
-url=https://opensource-demo.orangehrmlive.com/
-username=txtUsername
-password=txtPassword
-loginButton=Submit
